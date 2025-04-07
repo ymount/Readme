@@ -4,17 +4,6 @@
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=superpro1226&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/superpro1226">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=superpro1226&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-  
-  <a href="https://github.com/superpro1226">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=superpro1226&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SuperPro's GitHub Stats" height="180px"/>
-  </a>
-  
- </p>
- 
 <br />
 
 <div align="left">
